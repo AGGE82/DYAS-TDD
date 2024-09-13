@@ -1,0 +1,32 @@
+# Excluir la carpeta de compilación de Maven y Gradle
+/target/
+out/
+
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación y configuración generales
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de dependencia de Maven
+.mvn/
